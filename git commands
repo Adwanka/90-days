@@ -1,3 +1,4 @@
+git --version
 git init 
 git add
 git commit
@@ -7,3 +8,5 @@ git config --global user.name "username"
   git log
 git diff
 git log --oneline --pretty
+git config -l
+man git 
